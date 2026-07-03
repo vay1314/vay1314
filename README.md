@@ -33,7 +33,7 @@
 
 <a href="https://skillicons.dev">
   <img
-    src="https://skillicons.dev/icons?i=python,js,ts,go,vue,react,nodejs,docker,git,linux&perline=10"
+    src="https://skillicons.dev/icons?i=python,js,ts,go,vue,react,nodejs,docker&perline=10"
     alt="技术栈"
   />
 </a>

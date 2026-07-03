@@ -5,9 +5,6 @@
     alt="Typing SVG"
   />
 </a>
-
-<br /><br />
-
 </div>
 
 ---

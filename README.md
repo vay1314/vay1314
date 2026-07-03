@@ -16,10 +16,10 @@
 
 <div align="center">
 
-<a href="https://github.com/vay1314" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/vay1314">
   <img src="https://img.shields.io/badge/GitHub-vay1314-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://blog.vay1314.top" target="_blank" rel="noopener noreferrer">
+<a href="https://blog.vay1314.top">
   <img src="https://img.shields.io/badge/Blog-我的博客-0ea5e9?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
 </a>
 <a href="mailto:niuniuhaogou@gmail.com">

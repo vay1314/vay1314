@@ -87,7 +87,7 @@
 
 <a href="https://github.com/vay1314">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vay1314&bg_color=291B3E&title_color=ff64da&color=ffffff&line=ff64da&point=a960ff&area_color=5A2499&hide_border=true&area=true&radius=10&custom_title=VAY%E5%86%AC%E5%86%AC%E7%9A%84%E8%B4%A1%E7%8C%AE%E5%9B%BE"
+    src="https://github-readme-activity-graph-vay1314.vercel.app/graph?username=vay1314&bg_color=291B3E&title_color=ff64da&color=ffffff&line=ff64da&point=a960ff&area_color=5A2499&hide_border=true&area=true&radius=10&custom_title=VAY%E5%86%AC%E5%86%AC%E7%9A%84%E8%B4%A1%E7%8C%AE%E5%9B%BE"
     alt="Activity Graph"
   />
 </a>

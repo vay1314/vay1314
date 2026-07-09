@@ -69,7 +69,7 @@
     <td align="center">
       <a href="https://github.com/vay1314">
         <img
-          src="https://streak-stats.demolab.com/?user=vay1314&theme=jolly&locale=zh_Hans&hide_border=true&hide_longest_streak=true&card_width=300&card_height=190"
+          src="https://github-readme-streak-stats-vay1314.vercel.app/?user=vay1314&theme=jolly&locale=zh_Hans&hide_border=true&hide_longest_streak=true&card_width=300&card_height=190"
           alt="GitHub Streak"
         />
       </a>
